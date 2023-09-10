@@ -4,7 +4,7 @@ My name is Dan Crha. I'm a Web Developer looking for my first SWE role! I specia
 
 Project Showcase:
 
-![Mango-AI]("C:\Users\danie\OneDrive\Pictures\Screenshots\mango-ai.png")
+[Mango-AI]("C:\Users\danie\OneDrive\Pictures\Screenshots\mango-ai.png")
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=danielcrha)](https://git.io/streak-stats)
