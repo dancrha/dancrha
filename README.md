@@ -3,9 +3,7 @@
 My name is Dan Crha. I'm a Web Developer looking for my first SWE role! I specialize in building web-apps with the MERN stack.
 
 Project Showcase:
-
-![Mango-AI](C:\Users\danie\OneDrive\Pictures\Screenshots\mango-ai.png)
-
+![mango-ai](https://github.com/danielcrha/danielcrha/assets/44410856/72750b0b-f547-4457-b8bb-417b8970c167)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=danielcrha)](https://git.io/streak-stats)
 <!--
