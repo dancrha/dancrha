@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 My name is Dan Crha. I'm a Web Developer looking for my first SWE role! I specialize in building web-apps with the MERN stack.
+
+Project Showcase:
+
+![Mango-AI]("C:\Users\danie\OneDrive\Pictures\Screenshots\mango-ai.png")
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=danielcrha)](https://git.io/streak-stats)
 <!--
 **danielcrha/danielcrha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
