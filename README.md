@@ -91,21 +91,9 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 
 ## Project Showcase:
 
-<div>
+ [![mango-ai](https://github.com/danielcrha/danielcrha/assets/44410856/72750b0b-f547-4457-b8bb-417b8970c167)](https://ai-saas-rho-nine.vercel.app/)
  
- ![mango-ai](https://github.com/danielcrha/danielcrha/assets/44410856/72750b0b-f547-4457-b8bb-417b8970c167)
-<h4 text-align: center;>
-
  <a href="https://ai-saas-rho-nine.vercel.app/">Mango AI</a>
-</h4>
- 
-</div>
-
-
-
-
-
-
 
 ## 🔍  Where to find me
 
