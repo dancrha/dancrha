@@ -7,6 +7,7 @@ My name is Daniel Crha. I'm a Web Developer from Guelph, ON	:canada: looking for
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 Project Showcase:
+
 ![mango-ai](https://github.com/danielcrha/danielcrha/assets/44410856/72750b0b-f547-4457-b8bb-417b8970c167)
 
 ## 🛠  Technologies and tools
