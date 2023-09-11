@@ -10,10 +10,12 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 
 ## 🛠  Technologies and tools
 
-<a name="learning-now"></a>
-<h4 style="font-weight: bold">Most Used:</h4>
+<h3 align="center" style="font-weight: 800;">Most Used</h4>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+<div align="center">
+ 
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,7 +24,8 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)</div>
+
 
 
 <details>
@@ -39,7 +42,7 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 </details>
 
 <details>
-<summary><strong>Libraries/Frameworks/Tools:</strong></summary>
+<summary><strong>Libraries/Frameworks/Tools</strong></summary>
 <br>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -69,7 +72,7 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 </details>
 
 <details>
-<summary><strong>Operating Systems and IDEs:</strong></summary>
+<summary><strong>Operating Systems and IDEs</strong></summary>
 <br>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -83,7 +86,7 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 </details>
 
 <details>
-<summary><strong>Other Software:</strong></summary>
+<summary><strong>Other Software</strong></summary>
 <br>
 
 ![Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe-Creative-Cloud&logoColor=white)
@@ -92,7 +95,12 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white)
 </details>
 
-## Project Showcase:
+<h2><img src="https://github.com/danielcrha/danielcrha/assets/44410856/034f9269-56fe-41d3-b6c3-8515c5732228" width="30" height="30" /></span> Project Showcase:</h2>
+
+
+
+
+## :star2: Project Showcase
 
  [![mango-ai](https://github.com/danielcrha/danielcrha/assets/44410856/72750b0b-f547-4457-b8bb-417b8970c167)](https://ai-saas-rho-nine.vercel.app/)
  
