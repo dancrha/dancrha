@@ -26,7 +26,7 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 
 
 <details>
-<summary>Languages</summary>
+<summary><strong>Languages</strong></summary>
 <br>
  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -39,7 +39,7 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 </details>
 
 <details>
-<summary>Libraries/Frameworks/Tools:</summary>
+<summary><strong>Libraries/Frameworks/Tools:</strong></summary>
 <br>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -69,7 +69,7 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 </details>
 
 <details>
-<summary>Operating Systems and IDEs:</summary>
+<summary><strong>Operating Systems and IDEs:</strong></summary>
 <br>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -83,7 +83,7 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 </details>
 
 <details>
-<summary>Other Software:</summary>
+<summary><strong>Other Software:</strong></summary>
 <br>
 
 ![Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe-Creative-Cloud&logoColor=white)
