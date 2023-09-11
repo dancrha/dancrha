@@ -1,5 +1,5 @@
-<h3 align="center"><img src=https://github.com/danielcrha/danielcrha/assets/44410856/da004cbd-28ac-4811-8497-7e6406350837
- width=60 height=60/> Hi there! I'm Daniel Crha</h3>
+<h2 align="center"><img src=https://github.com/danielcrha/danielcrha/assets/44410856/da004cbd-28ac-4811-8497-7e6406350837
+ width=60 height=60/> Hi there! I'm Daniel Crha</h2>
 <h4 align="center">My name is Dan Crha. I'm a Web Developer from Guelph, ON	 :canada:  looking for my first SWE role! I specialize in building web-apps with the MERN stack.
 </h4>
 <h4 align="center">
