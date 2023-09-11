@@ -1,6 +1,6 @@
 <h2 align="center"><img src=https://github.com/danielcrha/danielcrha/assets/44410856/da004cbd-28ac-4811-8497-7e6406350837
  width=60 height=60/> Hi there! I'm Daniel Crha</h2>
-<h4 align="center">My name is Dan Crha. I'm a Web Developer from Guelph, ON :canada: looking for my first SWE role! I specialize in building web-apps with the MERN stack.
+<h4 align="center">My name is Dan Crha. I'm a Full Stack Software Developer from Guelph, ON :canada: looking for my first SWE role! I specialize in Web Development, creating scalable and user-friendly web-apps with the MERN stack.
 </h4>
 <h4 align="center">
 
@@ -101,12 +101,10 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
  
  <a href="https://ai-saas-rho-nine.vercel.app/">Mango AI</a>
 
-## 🔍  Connect with me!
+## 🔍  Where to find me
 
 <a href="https://www.linkedin.com/in/danielcrha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danielcrha/" height="30" width="40" /></a>
 <a href="https://twitter.com/danielcrha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danielcrha" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dancrha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dancrha/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/danielstephen.crha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/danielstephen.crha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22535529/daniel-crha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22535529/daniel-crha" height="30" width="40" /></a>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=danielcrha" /> 
