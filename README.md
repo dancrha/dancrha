@@ -95,11 +95,6 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white)
 </details>
 
-<h2><img src="https://github.com/danielcrha/danielcrha/assets/44410856/034f9269-56fe-41d3-b6c3-8515c5732228" width="30" height="30" /></span> Project Showcase:</h2>
-
-
-
-
 ## :star2: Project Showcase
 
  [![mango-ai](https://github.com/danielcrha/danielcrha/assets/44410856/72750b0b-f547-4457-b8bb-417b8970c167)](https://ai-saas-rho-nine.vercel.app/)
@@ -109,3 +104,7 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/danielcrha/)
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=danielcrha" /> 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielcrha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="danielcrha" /></p>
