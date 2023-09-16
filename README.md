@@ -103,13 +103,32 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 
 ## :star2: Project Showcase
 
-<div align="left">
+<h2 align="center">
+  <img src="https://github.com/danielcrha/danielcrha/assets/44410856/72750b0b-f547-4457-b8bb-417b8970c167"/> 
  
- [![mango-ai](https://github.com/danielcrha/danielcrha/assets/44410856/72750b0b-f547-4457-b8bb-417b8970c167)](https://ai-saas-rho-nine.vercel.app/)
+ <a href="https://ai-saas-rho-nine.vercel.app/">Mango AI SAAS</a>
+
  
-<a href="https://ai-saas-rho-nine.vercel.app/">Mango AI</a>
-  
+ 
+ <img src="https://github.com/danielcrha/danielcrha/assets/44410856/581eb379-8bd8-4299-8043-a2d80622eb8b">
+ 
+ <a href="https://ai-saas-rho-nine.vercel.app/">Ebay Clone</a>
+
+ 
+</h2>
+
+<div style="display: flex; justify-content: space-evenly;">
+  <p>Content 1</p>
+  <p>Content 2</p>
+  <p>Content 3</p>
 </div>
+
+
+
+
+
+
+
 
 ## 🔍  Where to find me
 
