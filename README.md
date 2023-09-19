@@ -119,7 +119,7 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 <img src="https://github.com/danielcrha/danielcrha/assets/44410856/5082b68d-4afd-4b7d-8af4-9c855dd94f27"/> <img src="https://github.com/danielcrha/danielcrha/assets/44410856/85c85a26-4aa8-4da9-b9d9-70828e719641"/> <img src="https://github.com/danielcrha/danielcrha/assets/44410856/cf0a4ff8-d980-4eb4-9182-749cce36222c"/>
 
 ![text-indent(1)](https://github.com/danielcrha/danielcrha/assets/44410856/b3877715-8bd4-4811-8084-fad0a4800392) 
-<a href="https://fake-nike-website.vercel.app/">Fake Nike Website</a> ![text-indent(2)](https://github.com/danielcrha/danielcrha/assets/44410856/dfeb513b-97e5-4299-943b-e02a017f089e) <a href="https://ebay-clone-n6fu8koa4-danielcrha.vercel.app/">Gym Website</a>
+<a href="https://fake-nike-website.vercel.app/">Fake Nike Website</a> ![text-indent(2)](https://github.com/danielcrha/danielcrha/assets/44410856/dfeb513b-97e5-4299-943b-e02a017f089e) <a href="https://gym-web-app-alpha.vercel.app/">Gym Website</a>
 
 </h3>
 
