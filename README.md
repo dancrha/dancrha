@@ -112,6 +112,9 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 
 
 </h3>
+<p>
+ 
+</p>
 <h3>
 <img src="https://github.com/danielcrha/danielcrha/assets/44410856/5082b68d-4afd-4b7d-8af4-9c855dd94f27"/> <img src="https://github.com/danielcrha/danielcrha/assets/44410856/85c85a26-4aa8-4da9-b9d9-70828e719641"/> <img src="https://github.com/danielcrha/danielcrha/assets/44410856/cf0a4ff8-d980-4eb4-9182-749cce36222c"/>
 
