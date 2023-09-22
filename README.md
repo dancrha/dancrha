@@ -3,7 +3,7 @@
 
 <h4 align="center">
  
- My name is Dan Crha. I'm a Full Stack Software Developer from Guelph, ON :canada: looking for my first SWE role! I specialize in Web Development, creating scalable and user-friendly web-apps with the MERN and T3 stacks.
+ My name is Dan Crha. I'm a Full Stack Software Developer from Guelph, ON :canada: looking for my first SWE role! I specialize in Web Development, creating scalable and user-friendly web-apps.
  
 </h4>
 
