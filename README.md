@@ -141,7 +141,6 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 <a href="https://fake-nike-website.vercel.app/">Netflix Clone</a> ![text-indent(2)](https://github.com/danielcrha/danielcrha/assets/44410856/dfeb513b-97e5-4299-943b-e02a017f089e)
 
 </h3>
-![New Project(2)](https://github.com/danielcrha/danielcrha/assets/44410856/5c075188-b695-4634-8078-36dba0f0b847)
 
 ## 🔍  Where to find me
 
