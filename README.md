@@ -138,7 +138,7 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 <img src="https://github.com/danielcrha/danielcrha/assets/44410856/5c075188-b695-4634-8078-36dba0f0b847"/> <img src="https://github.com/danielcrha/danielcrha/assets/44410856/85c85a26-4aa8-4da9-b9d9-70828e719641"/> <img src="https://github.com/danielcrha/danielcrha/assets/44410856/cf1af8ca-d58b-4bfd-8a61-c80325207d16"/>
 
 ![text-indent(1)](https://github.com/danielcrha/danielcrha/assets/44410856/b3877715-8bd4-4811-8084-fad0a4800392) 
-<a href="https://netflix-clone-git-master-danielcrha.vercel.app/auth" target="_blank">Netflix Clone</a> ![text-indent(2)](https://github.com/danielcrha/danielcrha/assets/44410856/dfeb513b-97e5-4299-943b-e02a017f089e) <a href="https://sushi-restaurant-website.vercel.app/" target="_blank">Sushi Restaurant Website</a>
+<a target="_blank" href="https://netflix-clone-git-master-danielcrha.vercel.app/auth" >Netflix Clone</a> ![text-indent(2)](https://github.com/danielcrha/danielcrha/assets/44410856/dfeb513b-97e5-4299-943b-e02a017f089e) <a target="_blank" href="https://sushi-restaurant-website.vercel.app/" >Sushi Restaurant Website</a>
 
 </h3>
 
