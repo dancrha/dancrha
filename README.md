@@ -155,7 +155,7 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 🎹 <strong>Programming Music:</strong> Lo-Fi, C418, Slowed + Reverb Hip-Hop
 </p>
  <p>
-🏒 <strong>Sports:</strong> Hockey, Soccer (European Football), Skateboarding, Snowboarding, Cycling, Formula 1, UFC, MMA, 
+🏒 <strong>Sports:</strong> Hockey, Soccer (European Football), Skateboarding, Snowboarding, Cycling, Formula 1, UFC, MMA
 </p>
 <p>
  🏎️ <strong>Dream Car:</strong> Tesla Model X Plaid 
