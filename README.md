@@ -169,14 +169,25 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 <a href="https://www.facebook.com/danielstephen.crha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/danielstephen.crha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22535529/daniel-crha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22535529/daniel-crha" height="30" width="40" /></a>
 
-## 🔍  Hobbies and Interests
 
-🖥️ Coding
-🤖 Artificial Intelligence
-🧑‍💻 Innovative Technology
-🔌 Electric Vehicles (Automobiles, PEVs)
-🎮 Gaming (Mostly Counter-Strike and Battlebit Remastered)
-👨‍👩‍👧‍👦 Spending Time with Family
+
+## 🏋️ Hobbies and Interests
+<p>
+ 🖥️ <strong>Coding</strong>
+</p>
+<p>🤖 <strong>Artificial Intelligence</strong></p>
+<p>🧑‍💻 <strong>Innovative Technology</strong></p>
+<p>
+🔌 <strong>Electric Vehicles</strong> (Automobiles, PEVs)</p>
+<p>
+ 💪 <strong>Fitness</strong> 
+</p>
+<p>🎮 <strong>Gaming</strong> (Mostly Counter-Strike and Battlebit Remastered)</p>
+
+<p>
+👨‍👩‍👧‍👦 <strong>Spending Time with Family</strong>
+</p>
+
 
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=danielcrha)](https://git.io/streak-stats) 
