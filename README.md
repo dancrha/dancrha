@@ -171,5 +171,13 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 
 ## 🔍  Hobbies and Interests
 
+🖥️ Coding
+🤖 Artificial Intelligence
+🧑‍💻 Innovative Technology
+🔌 Electric Vehicles (Automobiles, PEVs)
+🎮 Gaming (Mostly Counter-Strike and Battlebit Remastered)
+👨‍👩‍👧‍👦 Spending Time with Family
+
+
  [![GitHub Streak](https://streak-stats.demolab.com?user=danielcrha)](https://git.io/streak-stats) 
 
