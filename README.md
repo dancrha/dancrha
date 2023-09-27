@@ -180,13 +180,19 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 <p>
 🔌 <strong>Electric Vehicles</strong> (Automobiles, PEVs)</p>
 <p>
- 💪 <strong>Fitness</strong> 
+💪 <strong>Fitness</strong> 
 </p>
 <p>🎮 <strong>Gaming</strong> (Mostly Counter-Strike and Battlebit Remastered)</p>
-
 <p>
 👨‍👩‍👧‍👦 <strong>Spending Time with Family</strong>
 </p>
+<p>
+🎵 <strong>Favourite Musicians: </strong> Post Malone, SAINt JHN, Avicci, Logic
+</p>
+<p>
+🎹 <strong>Programming Music:</strong> Lo-Fi, C418, Slowed + Reverb Hip-Hop
+</p>
+
 
 
 
