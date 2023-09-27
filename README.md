@@ -114,13 +114,13 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 
 ## :star2: Project Showcase
 
-|<a href="https://ai-saas-rho-nine.vercel.app/">Mango AI SAAS</a>|<a href="https://ebay-clone-n6fu8koa4-danielcrha.vercel.app/">Ebay Clone</a>|<a href="https://fake-nike-website.vercel.app/">Fake Nike Website</a>|<a href="https://gym-web-app-alpha.vercel.app/">Gym Website</a>|<a href="https://netflix-clone-git-master-danielcrha.vercel.app/auth">Netflix Clone</a>|
-|:-:|:-:|:-:|:-:|:-:|
-|![First Image](https://github.com/danielcrha/danielcrha/assets/44410856/72750b0b-f547-4457-b8bb-417b8970c167)|![Second Image](https://github.com/danielcrha/danielcrha/assets/44410856/11e5f52d-0ab5-43e5-abdf-1effa9266205)| ![Third Image](https://github.com/danielcrha/danielcrha/assets/44410856/5082b68d-4afd-4b7d-8af4-9c855dd94f27)|![Gym website](https://github.com/danielcrha/danielcrha/assets/44410856/cf0a4ff8-d980-4eb4-9182-749cce36222c)|![Netflix Clone](https://github.com/danielcrha/danielcrha/assets/44410856/5c075188-b695-4634-8078-36dba0f0b847)|
+|<a href="https://ai-saas-rho-nine.vercel.app/">Mango AI SAAS</a>|<a href="https://ebay-clone-n6fu8koa4-danielcrha.vercel.app/">Ebay Clone</a>|<a href="https://fake-nike-website.vercel.app/">Fake Nike Website</a>|<a href="https://gym-web-app-alpha.vercel.app/">Gym Website</a>|
+|:-:|:-:|:-:|:-:|
+|![First Image](https://github.com/danielcrha/danielcrha/assets/44410856/72750b0b-f547-4457-b8bb-417b8970c167)|![Second Image](https://github.com/danielcrha/danielcrha/assets/44410856/11e5f52d-0ab5-43e5-abdf-1effa9266205)| ![Third Image](https://github.com/danielcrha/danielcrha/assets/44410856/5082b68d-4afd-4b7d-8af4-9c855dd94f27)|![Gym website](https://github.com/danielcrha/danielcrha/assets/44410856/cf0a4ff8-d980-4eb4-9182-749cce36222c)|
 
-|<a href="https://sushi-restaurant-website.vercel.app/">Sushi Restaurant Website</a>|<a href="https://data-finance-website-ashen.vercel.app/">Data-Finance Website</a>|<a href="https://analytics-dashboard-sigma.vercel.app/">Analytics Dashboard</a>|
-|:-:|:-:|:-:|
-|![Sushi restaurent website](https://github.com/danielcrha/danielcrha/assets/44410856/cf1af8ca-d58b-4bfd-8a61-c80325207d16)|![Data-Finance Website](https://github.com/danielcrha/danielcrha/assets/44410856/02aa1f1f-ae4a-4d84-8764-f338d74e4ef6)|![analytics dashboard](https://github.com/danielcrha/danielcrha/assets/44410856/c9754b05-1f74-4780-a387-45f8e2a456fa)|
+|<a href="https://netflix-clone-git-master-danielcrha.vercel.app/auth">Netflix Clone</a>|<a href="https://sushi-restaurant-website.vercel.app/">Sushi Restaurant Website</a>|<a href="https://data-finance-website-ashen.vercel.app/">Data-Finance Website</a>|<a href="https://analytics-dashboard-sigma.vercel.app/">Analytics Dashboard</a>|
+|:-:|:-:|:-:|:-:|
+|![Netflix Clone](https://github.com/danielcrha/danielcrha/assets/44410856/5c075188-b695-4634-8078-36dba0f0b847)|![Sushi restaurent website](https://github.com/danielcrha/danielcrha/assets/44410856/cf1af8ca-d58b-4bfd-8a61-c80325207d16)|![Data-Finance Website](https://github.com/danielcrha/danielcrha/assets/44410856/02aa1f1f-ae4a-4d84-8764-f338d74e4ef6)|![analytics dashboard](https://github.com/danielcrha/danielcrha/assets/44410856/c9754b05-1f74-4780-a387-45f8e2a456fa)|
 
 ## 🔍  Where to find me
 
