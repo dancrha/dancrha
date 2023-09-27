@@ -148,12 +148,17 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 
 </p>
 <h3>
-<img src="https://github.com/danielcrha/danielcrha/assets/44410856/02aa1f1f-ae4a-4d84-8764-f338d74e4ef6"/> <img src="https://github.com/danielcrha/danielcrha/assets/44410856/85c85a26-4aa8-4da9-b9d9-70828e719641"/>  
+<img src="https://github.com/danielcrha/danielcrha/assets/44410856/02aa1f1f-ae4a-4d84-8764-f338d74e4ef6"/> <img src="https://github.com/danielcrha/danielcrha/assets/44410856/85c85a26-4aa8-4da9-b9d9-70828e719641"/> <img src="https://github.com/danielcrha/danielcrha/assets/44410856/c9754b05-1f74-4780-a387-45f8e2a456fa"/>
 
-![text-indent(1)](https://github.com/danielcrha/danielcrha/assets/44410856/b3877715-8bd4-4811-8084-fad0a4800392) 
-<a href="" target="_blank">Data-Finance Website</a> ![text-indent(2)](https://github.com/danielcrha/danielcrha/assets/44410856/dfeb513b-97e5-4299-943b-e02a017f089e) <a href="" target="_blank"></a>
+![New Project(10)](https://github.com/danielcrha/danielcrha/assets/44410856/6069064d-06f0-4305-9b67-d77c4d5aadcc)
+<a href="" target="_blank">Data-Finance Website</a> ![New Project(8)](https://github.com/danielcrha/danielcrha/assets/44410856/7513f4a4-2b59-495c-8a04-2ee035ab9d46)
+ <a href="https://analytics-dashboard-sigma.vercel.app/" target="_blank">‎Analytics Dashboard</a>
 
 </h3>
+
+
+
+
 
 
 ## 🔍  Where to find me
