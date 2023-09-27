@@ -17,7 +17,7 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 
 ## 🛠  Technologies and tools
 
-<h3 align="center" style="font-weight: 800;">Most Used</h4>
+<h3 align="center" style="font-weight: 800;">Most Used</h3>
 
 
 <div align="center">
@@ -28,7 +28,6 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
@@ -115,52 +114,13 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 
 ## :star2: Project Showcase
 
-<h3 align="left">
-<img src="https://github.com/danielcrha/danielcrha/assets/44410856/72750b0b-f547-4457-b8bb-417b8970c167"/> <img src="https://github.com/danielcrha/danielcrha/assets/44410856/85c85a26-4aa8-4da9-b9d9-70828e719641"/> <img src="https://github.com/danielcrha/danielcrha/assets/44410856/11e5f52d-0ab5-43e5-abdf-1effa9266205"> 
- 
- <img src="https://github.com/danielcrha/danielcrha/assets/44410856/a3243424-3c9a-444c-8443-b3e6562a934d"/><a href="https://ai-saas-rho-nine.vercel.app/" target="_blank">Mango AI SAAS</a> <img src="https://github.com/danielcrha/danielcrha/assets/44410856/10b6d2e0-fbb5-440d-99e2-c607957aacc7"/> <a href="https://ebay-clone-n6fu8koa4-danielcrha.vercel.app/" target="_blank">Ebay Clone</a>
+|<a href="https://ai-saas-rho-nine.vercel.app/">Mango AI SAAS</a>|<a href="https://ebay-clone-n6fu8koa4-danielcrha.vercel.app/">Ebay Clone</a>|<a href="https://fake-nike-website.vercel.app/">Fake Nike Website</a>|<a href="https://gym-web-app-alpha.vercel.app/">Gym Website</a>|<a href="https://netflix-clone-git-master-danielcrha.vercel.app/auth">Netflix Clone</a>|
+|:-:|:-:|:-:|:-:|:-:|
+|![First Image](https://github.com/danielcrha/danielcrha/assets/44410856/72750b0b-f547-4457-b8bb-417b8970c167)|![Second Image](https://github.com/danielcrha/danielcrha/assets/44410856/11e5f52d-0ab5-43e5-abdf-1effa9266205)| ![Third Image](https://github.com/danielcrha/danielcrha/assets/44410856/5082b68d-4afd-4b7d-8af4-9c855dd94f27)|![Gym website](https://github.com/danielcrha/danielcrha/assets/44410856/cf0a4ff8-d980-4eb4-9182-749cce36222c)|![Netflix Clone](https://github.com/danielcrha/danielcrha/assets/44410856/5c075188-b695-4634-8078-36dba0f0b847)|
 
-
-</h3>
-<p>
- 
-</p>
-<h3>
-<img src="https://github.com/danielcrha/danielcrha/assets/44410856/5082b68d-4afd-4b7d-8af4-9c855dd94f27"/> <img src="https://github.com/danielcrha/danielcrha/assets/44410856/85c85a26-4aa8-4da9-b9d9-70828e719641"/> <img src="https://github.com/danielcrha/danielcrha/assets/44410856/cf0a4ff8-d980-4eb4-9182-749cce36222c"/>
-
-![text-indent(1)](https://github.com/danielcrha/danielcrha/assets/44410856/b3877715-8bd4-4811-8084-fad0a4800392) 
-<a href="https://fake-nike-website.vercel.app/" target="_blank">Fake Nike Website</a> ![text-indent(2)](https://github.com/danielcrha/danielcrha/assets/44410856/dfeb513b-97e5-4299-943b-e02a017f089e) <a href="https://gym-web-app-alpha.vercel.app/" target="_blank">Gym Website</a>
-
-</h3>
-
-<p>
-
-</p>
-
-<h3>
-<img src="https://github.com/danielcrha/danielcrha/assets/44410856/5c075188-b695-4634-8078-36dba0f0b847"/> <img src="https://github.com/danielcrha/danielcrha/assets/44410856/85c85a26-4aa8-4da9-b9d9-70828e719641"/> <img src="https://github.com/danielcrha/danielcrha/assets/44410856/cf1af8ca-d58b-4bfd-8a61-c80325207d16"/>
-
-![text-indent(1)](https://github.com/danielcrha/danielcrha/assets/44410856/b3877715-8bd4-4811-8084-fad0a4800392) 
-<a target="_blank" href="https://netflix-clone-git-master-danielcrha.vercel.app/auth" >Netflix Clone</a> ![text-indent(2)](https://github.com/danielcrha/danielcrha/assets/44410856/dfeb513b-97e5-4299-943b-e02a017f089e) <a target="_blank" href="https://sushi-restaurant-website.vercel.app/" >Sushi Restaurant Website</a>
-
-</h3>
-
-<p>
-
-</p>
-<h3>
-<img src="https://github.com/danielcrha/danielcrha/assets/44410856/02aa1f1f-ae4a-4d84-8764-f338d74e4ef6"/> <img src="https://github.com/danielcrha/danielcrha/assets/44410856/85c85a26-4aa8-4da9-b9d9-70828e719641"/> <img src="https://github.com/danielcrha/danielcrha/assets/44410856/c9754b05-1f74-4780-a387-45f8e2a456fa"/>
-
-![New Project(10)](https://github.com/danielcrha/danielcrha/assets/44410856/6069064d-06f0-4305-9b67-d77c4d5aadcc)
-<a href="" target="_blank">Data-Finance Website</a> ![New Project(8)](https://github.com/danielcrha/danielcrha/assets/44410856/7513f4a4-2b59-495c-8a04-2ee035ab9d46)
- <a href="https://analytics-dashboard-sigma.vercel.app/" target="_blank">‎Analytics Dashboard</a>
-
-</h3>
-
-
-
-
-
+|<a href="https://sushi-restaurant-website.vercel.app/">Sushi Restaurant Website</a>|<a href="https://data-finance-website-ashen.vercel.app/">Data-Finance Website</a>|<a href="https://analytics-dashboard-sigma.vercel.app/">Analytics Dashboard</a>|
+|:-:|:-:|:-:|
+|![Sushi restaurent website](https://github.com/danielcrha/danielcrha/assets/44410856/cf1af8ca-d58b-4bfd-8a61-c80325207d16)|![Data-Finance Website](https://github.com/danielcrha/danielcrha/assets/44410856/02aa1f1f-ae4a-4d84-8764-f338d74e4ef6)|![analytics dashboard](https://github.com/danielcrha/danielcrha/assets/44410856/c9754b05-1f74-4780-a387-45f8e2a456fa)|
 
 ## 🔍  Where to find me
 
@@ -170,11 +130,12 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 <a href="https://www.facebook.com/danielstephen.crha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/danielstephen.crha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22535529/daniel-crha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22535529/daniel-crha" height="30" width="40" /></a>
 
-
-
 ## 🏋️ Hobbies and Interests
-<p>
- 🖥️ <strong>Coding</strong>
+
+<div>
+ <img align="right" src="https://github.com/danielcrha/danielcrha/assets/44410856/4df309bc-9108-4f78-8242-fb1fbdbf2db4"/>
+ <p>
+ 🖥️ <strong>Coding</strong> 
 </p>
 <p>🤖 <strong>Artificial Intelligence</strong></p>
 <p>🧑‍💻 <strong>Innovative Technology</strong></p>
@@ -193,9 +154,17 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 <p>
 🎹 <strong>Programming Music:</strong> Lo-Fi, C418, Slowed + Reverb Hip-Hop
 </p>
+ <p>
+🏒 <strong>Sports:</strong> Hockey, Soccer (European Football), Skateboarding, Snowboarding, Cycling, Formula 1, UFC, MMA, 
+</p>
+<p>
+ 🏎️ <strong>Dream Car:</strong> Tesla Model X Plaid 
+</p>
+</div>
 
+<div align="top-left" >
+ 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=danielcrha)](https://git.io/streak-stats) 
+</div>
 
-
-
- [![GitHub Streak](https://streak-stats.demolab.com?user=danielcrha)](https://git.io/streak-stats) 
 
