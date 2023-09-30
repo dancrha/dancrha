@@ -114,7 +114,7 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 
 ## :star2: Project Showcase
 
-|<a href="https://ai-saas-rho-nine.vercel.app/">Mango AI SAAS</a>|<a href="https://ebay-clone-n6fu8koa4-danielcrha.vercel.app/">Ebay Clone</a>|<a href="https://fake-nike-website.vercel.app/">Fake Nike Website</a>|<a href="https://gym-web-app-alpha.vercel.app/">Gym Website</a>|
+|<a href="https://ai-saas-rho-nine.vercel.app/">Mango AI SAAS</a>|<a href="https://ebay-clone-gilt.vercel.app/">Ebay Clone</a>|<a href="https://fake-nike-website.vercel.app/">Fake Nike Website</a>|<a href="https://gym-web-app-alpha.vercel.app/">Gym Website</a>|
 |:-:|:-:|:-:|:-:|
 |![First Image](https://github.com/danielcrha/danielcrha/assets/44410856/72750b0b-f547-4457-b8bb-417b8970c167)|![Second Image](https://github.com/danielcrha/danielcrha/assets/44410856/11e5f52d-0ab5-43e5-abdf-1effa9266205)| ![Third Image](https://github.com/danielcrha/danielcrha/assets/44410856/5082b68d-4afd-4b7d-8af4-9c855dd94f27)|![Gym website](https://github.com/danielcrha/danielcrha/assets/44410856/cf0a4ff8-d980-4eb4-9182-749cce36222c)|
 
