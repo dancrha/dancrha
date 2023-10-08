@@ -38,6 +38,7 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 <details>
 <summary><strong>Languages</strong></summary>
 <br>
+
  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
