@@ -19,7 +19,6 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 
 <h3 align="center" style="font-weight: 800;">Most Used</h3>
 
-
 <div align="center">
  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
