@@ -33,7 +33,6 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)</div>
 
 
-
 <details>
 <summary><strong>Languages</strong></summary>
 <br>
