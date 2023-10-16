@@ -173,9 +173,5 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 </p>
 </div>
 
-<div align="top-left" >
- 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=danielcrha)](https://git.io/streak-stats) 
-</div>
 
 
