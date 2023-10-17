@@ -10,9 +10,10 @@
 
 <h4 align="center">
 
-You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/12570835/Daniel.Crha.Resume.2023.pdf">here.</a>:briefcase:
+You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/12937363/Daniel.Crha.Resume.2023.pdf">here.</a>:briefcase:
 
 </h4>
+
 
 
 ## 🛠  Technologies and tools
