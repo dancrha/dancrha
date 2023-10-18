@@ -1,11 +1,17 @@
-<h2 align="center"><img src=https://github.com/danielcrha/danielcrha/assets/44410856/da004cbd-28ac-4811-8497-7e6406350837
- width=60 height=60/> Hi there! I'm Daniel Crha</h2>
 
-<h4 align="center">
+<div align="center">
+<img src=https://github.com/danielcrha/danielcrha/assets/44410856/da004cbd-28ac-4811-8497-7e6406350837
+ width=60 height=60/><font size='10' align="center">Hi there! I'm Daniel Crha</font>
  
+</div>
+
+</br>
+
+
+<div align="center" style="font-size">
  My name is Dan Crha. I'm a Software Developer from Guelph, ON :canada: looking for my first SWE role! I specialize in Web Development, creating scalable and user-friendly web-apps.
- 
-</h4>
+</div>
+
 
 
 <h4 align="center">
@@ -22,12 +28,12 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 <div align="center">
  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)</div>
@@ -112,7 +118,7 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white)
 </details>
 
-## :star2: Project Showcase
+##  :star2: Project Showcase
 
 <div align="center">
  
