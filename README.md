@@ -1,11 +1,6 @@
 
-<div align="center">
-<img src=https://github.com/danielcrha/danielcrha/assets/44410856/da004cbd-28ac-4811-8497-7e6406350837
- width=60 height=60/><font size='10' align="center">Hi there! I'm Daniel Crha</font>
- 
-</div>
-
-</br>
+<h2 size='10' align="center"><img src=https://github.com/danielcrha/danielcrha/assets/44410856/da004cbd-28ac-4811-8497-7e6406350837
+ width=60 height=60/> Hi there! I'm Daniel Crha</h2>
 
 
 <div align="center" style="font-size">
