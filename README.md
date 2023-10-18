@@ -9,7 +9,7 @@
 
 
 <div align="center" style="font-size">
- My name is Dan Crha. I'm a Software Developer from Guelph, ON :canada: looking for my first SWE role! I specialize in Web Development, creating scalable and user-friendly web-apps.
+ I'm a Software Developer from Guelph, ON :canada: looking for my first SWE role! I specialize in Web Development, creating scalable and user-friendly web-apps.
 </div>
 
 
