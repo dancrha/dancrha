@@ -11,7 +11,7 @@
 
 <h4 align="center">
 
-You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/12937394/Daniel.Crha.Resume.2023.pdf">here.</a>📄
+You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/13197280/Daniel.Crha.Resume.2023.2.pdf">here.</a>📄
 
 </h4>
 
