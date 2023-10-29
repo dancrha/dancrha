@@ -4,7 +4,7 @@
 
 
 <div align="center" style="font-size">
- I'm a recent Computer Science graduate from Guelph, ON :canada:! I am currently doing a 4 month internship at Digital Mobility Inc. as a Software Quality Assurance Engineer, with the prospect of joining their developer team after my internship. I specialize in Web Development, creating scalable and user-friendly web-apps.
+ I'm a recent Laurier Computer Science graduate 🎓 :canada:! I am currently doing a 4 month internship at Digital Mobility Inc. as a Software Quality Assurance Intern, with the prospect of joining their developer team after my internship. I specialize in Web Development, creating scalable and user-friendly web-apps.
 </div>
 
 
@@ -15,6 +15,12 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 
 </h4>
 
+## 💼  Experience
+
+
+ <a href="https://digitalmobilityinc.com/">Digital Mobility Inc.</a> </br>
+Software Quality Assurance Intern</br>
+October 2023 - Present
 
 ## 🛠  Technologies and tools
 
