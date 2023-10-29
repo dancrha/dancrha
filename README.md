@@ -4,7 +4,7 @@
 
 
 <div align="center" style="font-size">
- I'm a Software Developer from Guelph, ON :canada: looking for my first SWE role! I specialize in Web Development, creating scalable and user-friendly web-apps.
+ I'm a recent Computer Science graduate from Guelph, ON :canada:! I am currently doing a 4 month internship at Digital Mobility Inc. as a Software Quality Assurance Engineer, with the prospect of joining their developer team after my internship. I specialize in Web Development, creating scalable and user-friendly web-apps.
 </div>
 
 
