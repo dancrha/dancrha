@@ -22,6 +22,10 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 Software Quality Assurance Intern</br>
 October 2023 - Present
 
+ <a href="https://peo-mc.ca"/>PEO Mississauga Chapter</a> </br>
+Coding Contest Volunteer</br>
+September 2023 - November 2023
+
 ## 🛠  Technologies and tools
 
 <h3 align="center" style="font-weight: 800;">Most Used</h3>
