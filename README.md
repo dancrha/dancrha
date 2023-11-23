@@ -177,7 +177,7 @@ September 2023 - November 2023
 🎹 <strong>Programming Music:</strong> Lo-Fi, C418, Slowed + Reverb Hip-Hop
 </p>
  <p>
-🏒 <strong>Sports:</strong> Hockey, Soccer (European Football), Skateboarding, Snowboarding, Cycling, Formula 1, UFC, MMA
+🏒 <strong>Sports:</strong> Hockey, Soccer (European Football), Electric Skateboarding, Snowboarding, Cycling, Formula 1, UFC, MMA
 </p>
 <p>
  🏎️ <strong>Dream Car:</strong> Tesla Model X Plaid 
