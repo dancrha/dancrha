@@ -144,7 +144,13 @@ September 2023 - November 2023
 |:-:|:-:|:-:|:-:|
 |![Netflix Clone](https://github.com/danielcrha/danielcrha/assets/44410856/5c075188-b695-4634-8078-36dba0f0b847)|![Sushi restaurent website](https://github.com/danielcrha/danielcrha/assets/44410856/cf1af8ca-d58b-4bfd-8a61-c80325207d16)|![Data-Finance Website](https://github.com/danielcrha/danielcrha/assets/44410856/02aa1f1f-ae4a-4d84-8764-f338d74e4ef6)|![analytics dashboard](https://github.com/danielcrha/danielcrha/assets/44410856/c9754b05-1f74-4780-a387-45f8e2a456fa)|
 
+|<a href="https://cozii-assessment-mars-visit-form.vercel.app/">Celestial Escapes</a>
+|:-:|
+|![First Image](https://github.com/danielcrha/danielcrha/assets/44410856/87fd88b3-dcc5-4183-a474-5a09d542c8bd)|
+
+
 ## 🔍  Where to find me
+![Screenshot 2023-12-03 181101]()
 
 <a href="https://www.linkedin.com/in/danielcrha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danielcrha/" height="30" width="40" /></a>
 <a href="https://twitter.com/danielcrha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danielcrha" height="30" width="40" /></a>
