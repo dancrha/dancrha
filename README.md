@@ -150,7 +150,6 @@ September 2023 - November 2023
 
 
 ## 🔍  Where to find me
-![Screenshot 2023-12-03 181101]()
 
 <a href="https://www.linkedin.com/in/danielcrha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danielcrha/" height="30" width="40" /></a>
 <a href="https://twitter.com/danielcrha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danielcrha" height="30" width="40" /></a>
