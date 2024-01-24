@@ -1,10 +1,10 @@
 
 <h2 size='10' align="center"><img src=https://github.com/danielcrha/danielcrha/assets/44410856/da004cbd-28ac-4811-8497-7e6406350837
- width=60 height=60/> Hi there! I'm Daniel Crha</h2>
+ width=60 height=60/> Hi there! I'm Dan Crha</h2>
 
 
 <div align="center" style="font-size">
- I'm a recent Laurier Computer Science graduate 🎓 :canada:! I am currently doing a 4 month internship at Digital Mobility Inc. as a Software Quality Assurance Intern, with the prospect of joining their developer team after my internship. I specialize in Web Development, creating scalable and user-friendly web-apps.
+ I'm a Software Developer and Laurier Computer Science graduate 🎓 :canada:! I am currently doing an internship at Digital Mobility Inc. as a Software Developer/Quality Assurance Intern, with the prospect of joining their developer team after my internship. I specialize in Web Development, creating scalable and user-friendly web-apps with React. I also have mobile development experience with Flutter + Dart, and Java + XML.
 </div>
 
 
@@ -32,12 +32,13 @@ September 2023 - November 2023
 
 <div align="center">
  
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 </div>
 
@@ -47,14 +48,13 @@ September 2023 - November 2023
 <summary><strong>Languages</strong></summary>
 <br>
 
- 
+![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 </details>
