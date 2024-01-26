@@ -20,7 +20,7 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 
  <a href="https://digitalmobilityinc.com/">Digital Mobility Inc.</a> </br>
 Software Developer / Quality Assurance Intern</br>
-October 2023 - Present
+October 2023 - Present</br>
 Tools: Flutter, Dart, Git, Github, Jira, Slack, MS Teams, Qase
 
  <a href="https://peo-mc.ca"/>PEO Mississauga Chapter</a> </br>
