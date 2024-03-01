@@ -4,7 +4,7 @@
 
 
 <div align="center" style="font-size">
- I'm a Software Developer and Laurier Computer Science graduate 🎓 :canada:! I am currently doing an internship at Digital Mobility Inc. as a Software Developer/Quality Assurance Intern, with the prospect of joining their developer team after my internship. I specialize in Web Development, creating scalable and user-friendly web-apps with React. I also have mobile development experience with Flutter + Dart, and Java + XML.
+ I'm a Software Developer and Laurier Computer Science graduate 🎓 :canada:! I currently work at Digital Mobility Inc. as a Software Developer, after completing an invaluable four month internship. At DMI, I have been getting lots of experience developing mobile applications with Flutter and Dart, and I have become familiar with tools such as Git, Jira, Slack, Teams, VSCode, etc. I specialize in Web Development, creating scalable and user-friendly web-apps with React. 
 </div>
 
 
