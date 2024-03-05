@@ -17,17 +17,18 @@ You can find my resume <a href="https://github.com/danielcrha/danielcrha/files/1
 
 ## 💼  Experience
 
- <a href="https://digitalmobilityinc.com/">Digital Mobility Inc.</a> </br>
-Software Developer</br>
-March 2024 - Present</br>
+ **<a href="https://digitalmobilityinc.com/">Digital Mobility Inc.</a> </br>**
+**Software Developer**</br>
+*March 2024 - Present</br>*
+|</br>
+**Software Developer / Quality Assurance Intern</br>**
+*October 2023 - March 2024</br>*
 </br>
-Software Developer / Quality Assurance Intern</br>
-October 2023 - March 2024</br>
-Tools: Flutter, Dart, Git, Github, Jira, Slack, MS Teams, VS Code, Qase
+*Tools: Flutter, Dart, Git, Github, Jira, Slack, MS Teams, VS Code, Qase*
 
- <a href="https://peo-mc.ca"/>PEO Mississauga Chapter</a> </br>
-Coding Contest Volunteer</br>
-September 2023 - November 2023
+ **<a href="https://peo-mc.ca"/>PEO Mississauga Chapter</a>** </br>
+**Coding Contest Volunteer**</br>
+*September 2023 - November 2023*
 
 ## 🛠  Technologies and tools
 
