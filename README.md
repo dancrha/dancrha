@@ -4,7 +4,7 @@
 
 
 <div align="center" style="font-size">
- I'm a Software Developer and Laurier Computer Science graduate 🎓 :canada:! I currently work at Digital Mobility Inc. as a Software Developer, after completing an invaluable four month internship. At DMI, I have been getting lots of experience developing mobile applications with Flutter and Dart, and I have become familiar with tools such as Git, Jira, Slack, Teams, VSCode, etc. I specialize in Web Development, creating scalable and user-friendly web-apps with React. 
+ I'm a Software Developer and Laurier Computer Science graduate 🎓 :canada:! I currently work at Digital Mobility Inc. as a Software Developer. At DMI, I am developing mobile applications with Flutter and Dart, and I have become familiar with tools such as Git, Jira, Slack, Teams, VSCode, etc. My personal focus is in Web Development, creating scalable and user-friendly web-apps with React. 
 </div>
 
 
@@ -50,9 +50,9 @@ September 2023 - November 2023
 <details>
 <summary><strong>Languages</strong></summary>
 <br>
-
-![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+ 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
