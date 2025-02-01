@@ -186,10 +186,7 @@ You can find my resume <a href="https://github.com/dancrha/dancrha/files/1449028
 🎹 <strong>Programming Music:</strong> Lo-Fi, C418, Slowed + Reverb Hip-Hop
 </p>
  <p>
-🏒 <strong>Sports:</strong> Hockey, Soccer (European Football), Electric Skateboarding, Snowboarding, Cycling, Formula 1, UFC, MMA
-</p>
-<p>
- 🏎️ <strong>Dream Car:</strong> Tesla Model X Plaid 
+🏒 <strong>Sports:</strong> Hockey, Electric Skateboarding, Snowboarding
 </p>
 </div>
 
