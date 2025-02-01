@@ -4,7 +4,7 @@
 
 
 <div align="center" style="font-size">
- I'm a Software Developer and Laurier Computer Science graduate 🎓 :canada:  I currently work at Digital Mobility Inc., developing mobile applications with Flutter and Dart. My personal focus is in Web Development, creating scalable and user-friendly web-apps with React.
+ I'm a Software Developer and Laurier Computer Science graduate 🎓 :canada:  I currently work at Digital Mobility Inc., developing mobile applications with React and Flutter. My personal focus is in Web Development, creating scalable and user-friendly web-apps with React.
 </div>
 
 
@@ -36,12 +36,12 @@ You can find my resume <a href="https://github.com/dancrha/dancrha/files/1449028
 
 <div align="center">
  
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 </div>
